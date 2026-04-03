@@ -1,4 +1,4 @@
-```markdown
+
 # Cocoon-Shed (IoT)
 
 A lightweight IoT framework designed for simplicity and efficiency in managing connected devices.
