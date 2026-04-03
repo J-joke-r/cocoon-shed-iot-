@@ -1,6 +1,6 @@
 #define BLYNK_TEMPLATE_ID   "TMPL3FAeFaz9u"
 #define BLYNK_TEMPLATE_NAME "Cocoon Shed"
-#define BLYNK_AUTH_TOKEN    "eeND_mqa03W1Ux9Fx2OGHtIip_ggtgha"
+#define BLYNK_AUTH_TOKEN    "eeND_mqa03W1Ux9tIip_ggtgha"
 
 #define BLYNK_PRINT Serial
 
